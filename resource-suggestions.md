@@ -8,7 +8,14 @@
 - [Reproducible research with R and Rstudio, by Christopher Gandrud](https://englianhu.files.wordpress.com/2016/01/reproducible-research-with-r-and-studio-2nd-edition.pdf)
 - [Christine Bahlai: Baby steps for the open-curious](https://practicaldatamanagement.wordpress.com/2014/10/23/baby-steps-for-the-open-curious/)
 
-## Focused resources
+##  Data management / reproducible philosophies
+
+### Ecology specific
+
+- [A guide to Data Management in Ecology and Evolution, British Ecological Society](https://github.com/laurajanegraham/BES-Macroecology-2016/blob/master/Reproducible%20research%20with%20R.pdf)
+- [White, E., Baldridge, E., Brym, Z., Locey, K., McGlinn, D., Supp, S. (2013) Nine simple ways to make it easier to (re)use your data. IEE. 6, 1–10.](http://library.queensu.ca/ojs/index.php/IEE/article/view/4608)
+
+## Focused resources -- data analysis tasks and tools
 
 ### Version Control
 

@@ -59,7 +59,7 @@
 - packrat
 - [Semantic versioning for versioning your packages](http://semver.org)
 - [Hilary's R packages tutorial](http://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
-
+- [Docker: containerized VM-like projects](https://ropensci.org/blog/2014/10/23/introducing-rocker/)
 ### Dependency-management and Automation
 
 - [K.Broman: Make, minimal tutorial](http://kbroman.org/minimal_make/)

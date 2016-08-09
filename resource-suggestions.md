@@ -70,3 +70,7 @@
 ### Open-source and sharing your research
 
 - [Web-sites for your research using github pages and jekyll](http://kbroman.org/simple_site/)
+
+### Let's get some links for your links for your links
+
+[Ropensci Repro Sci Links](http://ropensci.github.io/reproducibility-guide/sections/references/)

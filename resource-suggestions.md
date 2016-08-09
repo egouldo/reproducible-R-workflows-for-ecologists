@@ -12,10 +12,20 @@
 
 ### Ecology specific
 
-- [A guide to Data Management in Ecology and Evolution, British Ecological Society](https://github.com/laurajanegraham/BES-Macroecology-2016/blob/master/Reproducible%20research%20with%20R.pdf)
+- [A guide to Data Management in Ecology and Evolution, British Ecological Society](https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwja95XExrPOAhVC4mMKHaowBDYQFggiMAA&url=http%3A%2F%2Fwww.britishecologicalsociety.org%2Fwp-content%2Fuploads%2FPubl_Data-Management-Booklet.pdf&usg=AFQjCNHkVVSmvrdmLuNiIbC1Ah470yBtzw&sig2=CH3B5LSFPQuvDWczaH6C-w)
 - [White, E., Baldridge, E., Brym, Z., Locey, K., McGlinn, D., Supp, S. (2013) Nine simple ways to make it easier to (re)use your data. IEE. 6, 1–10.](http://library.queensu.ca/ojs/index.php/IEE/article/view/4608)
 
+
+### Stitching everything together: workflows
+
+- [Laura Graham's slides for BES Macro 2016](https://github.com/laurajanegraham/BES-Macroecology-2016/blob/master/Reproducible%20research%20with%20R.pdf)
+
 ## Focused resources -- data analysis tasks and tools
+
+### Metadata
+
+- [Some rules on metadata from R open Sci](http://ropensci.github.io/reproducibility-guide/sections/metaData/)
+- [Also see the metadata section in BES' data management guidelines](https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwja95XExrPOAhVC4mMKHaowBDYQFggiMAA&url=http%3A%2F%2Fwww.britishecologicalsociety.org%2Fwp-content%2Fuploads%2FPubl_Data-Management-Booklet.pdf&usg=AFQjCNHkVVSmvrdmLuNiIbC1Ah470yBtzw&sig2=CH3B5LSFPQuvDWczaH6C-w)
 
 ### Version Control
 
@@ -49,7 +59,7 @@
 - packrat
 - [Semantic versioning for versioning your packages](http://semver.org)
 - [Hilary's R packages tutorial](http://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
-
+- [Docker: containerized VM-like projects](https://ropensci.org/blog/2014/10/23/introducing-rocker/)
 ### Dependency-management and Automation
 
 - [K.Broman: Make, minimal tutorial](http://kbroman.org/minimal_make/)
@@ -60,3 +70,7 @@
 ### Open-source and sharing your research
 
 - [Web-sites for your research using github pages and jekyll](http://kbroman.org/simple_site/)
+
+### Let's get some links for your links for your links
+
+[Ropensci Repro Sci Links](http://ropensci.github.io/reproducibility-guide/sections/references/)

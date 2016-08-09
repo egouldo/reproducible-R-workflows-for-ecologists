@@ -22,6 +22,11 @@
 
 ## Focused resources -- data analysis tasks and tools
 
+### Metadata
+
+- [Some rules on metadata from R open Sci](http://ropensci.github.io/reproducibility-guide/sections/metaData/)
+- [Also see the metadata section in BES' data management guidelines](https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwja95XExrPOAhVC4mMKHaowBDYQFggiMAA&url=http%3A%2F%2Fwww.britishecologicalsociety.org%2Fwp-content%2Fuploads%2FPubl_Data-Management-Booklet.pdf&usg=AFQjCNHkVVSmvrdmLuNiIbC1Ah470yBtzw&sig2=CH3B5LSFPQuvDWczaH6C-w)
+
 ### Version Control
 
 - [Karl Broman: Git / Github, a minimal tutorial](http://kbroman.org/github_tutorial/)
